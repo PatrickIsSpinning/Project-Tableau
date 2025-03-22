@@ -4,6 +4,7 @@ My first Tableu projects as instructed by Prof. Dr. Karim Mohammed Rezaul
 I have attended a masterclass on Business data analytics and I am instructed to share my projects on tableau.
 
 **PROJECT 1**
+
 The Graph below shows the monthly sale of furniture, office supplies, technology and their order date from each year starting from 2018 to 2021. 
 ![image](https://github.com/user-attachments/assets/14dda5ba-45b4-480e-ab43-03d58a1aabd4)
 
@@ -13,7 +14,11 @@ The profit map is the representation of the profit of each states in United Sate
 The graph below represents the number of sales in more depth, as the sub category of sales. For example, Furniture is the category and as sub category there is bookcases, chairs, Furnishing and tables. In the furniture category, chair is the sub-category and the sales is $328,449. But the highest sales amounting is the phone which falls under technology category. The sell amount is $330007
 ![image](https://github.com/user-attachments/assets/610d640d-bc0f-4bc3-a7f8-f309849ff1cd)
 
+
+
 **PROJECT 2**
+
+
 The graph below shows the sales of product that falls under technology category of each year starting from 2018 to 2021. In the Y axis the region is included and in the X axis conclude the sales of machines in each year. 
 ![image](https://github.com/user-attachments/assets/640a517d-3baa-406a-ab86-07512313924d)
 
@@ -26,7 +31,10 @@ The map below is called profit map. The profit map represents all the profit occ
 This graph below shows the loss incurred in the respective region, the city and on what product produced low to no profit of all the year. For example, machines in north Carolina faced a loss amounting -$3840. But in the Jacksonville, the most earned product was Accessories.
 ![image](https://github.com/user-attachments/assets/bb949740-e378-481a-b755-bc8f90c1d918)
 
+
+
 **Project 3**
+
 This graph below is called overall sells pie chart. The pie chart represents the amount of furniture, technology and office supplies is sold. 
 ![image](https://github.com/user-attachments/assets/9f960f40-f92d-4814-9b1f-18e21122ca58)
 
